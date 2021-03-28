@@ -1,18 +1,28 @@
 # Code Refactor
 
-## Project Link
-https://dalto135.github.io/Code_Refactor/
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
+## Table of Contents
+[Project Link](#Link)  
+[Technologies](#Technologies)  
+[Description](#Description)  
+[Screenshots](#Screenshots)  
+[License](#License)  
+[Contact](#Contact)
+
+## Link
+https://dalto135.github.io/code_refactor/
 
 ## Technologies
 HTML and CSS
 
 ## Description
-This is a website application that displays information in a coherent way using semantic html elements and consistant css markers.
+A website application that displays information in a coherent way using semantic html elements and consistant css markers.
 
 ## Screenshots
-![screenshot1](https://github.com/dalto135/01-Homework/blob/main/Screen%20Shot%202021-01-27%20at%209.06.01%20PM.png)
-![screenshot2](https://github.com/dalto135/01-Homework/blob/main/Screen%20Shot%202021-01-27%20at%209.06.09%20PM.png)
-![screenshot3](https://github.com/dalto135/01-Homework/blob/main/Screen%20Shot%202021-01-27%20at%209.06.16%20PM.png)
+![Screenshot 1](images/screenshot1.png)
+![Screenshot 2](images/screenshot2.png)
+![Screenshot 3](images/screenshot3.png)
 
 ## License
 MIT
