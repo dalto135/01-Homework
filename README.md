@@ -11,7 +11,7 @@
 [Contact](#Contact)
 
 ## Link
-https://dalto135.github.io/code_refactor/
+https://dalto135.github.io/code-refactor/
 
 ## Technologies
 HTML and CSS
