@@ -20,9 +20,9 @@ HTML and CSS
 A website application that displays information in a coherent way using semantic html elements and consistant css markers.
 
 ## Screenshots
-![Screenshot 1](images/screenshot1.png)
-![Screenshot 2](images/screenshot2.png)
-![Screenshot 3](images/screenshot3.png)
+![Screenshot 1](assets/images/screenshot1.png)
+![Screenshot 2](assets/images/screenshot2.png)
+![Screenshot 3](assets/images/screenshot3.png)
 
 ## License
 MIT
