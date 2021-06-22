@@ -28,4 +28,4 @@ A website application that displays information in a coherent way using semantic
 MIT
 
 ## Contact
-Dalton Wilkins - wilkins.271@osu.edu
+Dalton Wilkins - daltongh@gmail.com
